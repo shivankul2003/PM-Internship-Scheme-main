@@ -2,16 +2,16 @@
 
 ## Overview
 
-Scheme Shine is a web application designed to help users discover and explore various government schemes and welfare programs in an easy and user-friendly manner. The platform provides organized information, search functionality, and an intuitive interface to improve accessibility to scheme-related information.
+Scheme Shine is a web-based platform that helps users discover, search, and explore government schemes and welfare programs through a simple, responsive, and user-friendly interface. The application improves accessibility to scheme-related information by providing organized categories and efficient search functionality.
 
 ## Features
 
 * Search and browse government schemes
-* User-friendly and responsive interface
-* Fast performance using React and Vite
-* Mobile-friendly design
+* Responsive and mobile-friendly design
 * Organized scheme categorization
-* Modern UI built with Tailwind CSS
+* Fast and efficient user experience
+* Modern and intuitive UI
+* Easy navigation and accessibility
 
 ## Technologies Used
 
@@ -30,33 +30,16 @@ Scheme Shine is a web application designed to help users discover and explore va
 
 ### Steps to Run Locally
 
-1. Clone the repository:
-
 ```bash
 git clone <repository-url>
-```
-
-2. Navigate to the project directory:
-
-```bash
 cd scheme-shine
-```
-
-3. Install dependencies:
-
-```bash
 npm install
-```
-
-4. Start the development server:
-
-```bash
 npm run dev
 ```
 
-5. Open the application in your browser:
+Open your browser and visit:
 
-```text
+```bash
 http://localhost:5173
 ```
 
@@ -75,12 +58,16 @@ public/
 
 ## Future Enhancements
 
-* User authentication
-* Personalized scheme recommendations
-* Advanced filtering options
-* Multi-language support
-* AI-powered scheme eligibility checker
+* User Authentication
+* Personalized Scheme Recommendations
+* Advanced Search and Filtering
+* Multi-language Support
+* AI-based Scheme Eligibility Checker
 
 ## Author
 
-Ayush Agrahari
+Shivankul 
+
+## License
+
+This project is developed for educational and learning purposes.
